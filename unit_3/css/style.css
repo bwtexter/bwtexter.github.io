@@ -1,0 +1,45 @@
+body {
+	background-color: url(images/WadiRum.jpg);
+	background-size: cover;
+}
+
+h1 {
+	color: #FFF;
+	font-style: Helvetica;
+	font-weight: bold;
+	font-align: center;
+	font-size: 36px;  
+}
+
+h2 {
+	color: #FFF;
+	font-style: Helvetica;
+	font-weight: bold;
+	font-align: left;
+	font-size: 28px;  
+}
+
+h3 {
+	color: #FFF;
+	font-style: Helvetica;
+	font-weight: normal;
+	font-align: left;
+	font-size: 22px;  
+}
+
+p {
+	color: #FFF;
+	font-style: Helvetica;
+	font-weight: normal;
+	font-align: left;
+	font-size: 14px;  
+}
+
+#slogan {
+	color: #FFF;
+	font-style: Helvetica;
+	font-weight: bold;
+	font-decoration: italic;
+	font-align: center;
+	font-size: 36px;  
+}
