@@ -7,7 +7,7 @@ h1 {
 	color: #FFF;
 	font-family: Helvetica, sans-serif;
 	font-weight: bold;
-	font-align: center;
+	text-align: center;
 	font-size: 36px;  
 }
 
@@ -15,7 +15,7 @@ h2 {
 	color: #FFF;
 	font-family: Helvetica, sans-serif;
 	font-weight: bold;
-	font-align: left;
+	text-align: left;
 	font-size: 28px;  
 }
 
@@ -23,7 +23,7 @@ h3 {
 	color: #FFF;
 	font-family: Helvetica, sans-serif;
 	font-weight: normal;
-	font-align: left;
+	text-align: left;
 	font-size: 22px;  
 }
 
@@ -31,7 +31,7 @@ p {
 	color: #FFF;
 	font-family: Helvetica, sans-serif;
 	font-weight: normal;
-	font-align: left;
+	text-align: left;
 	font-size: 14px;  
 }
 
@@ -39,7 +39,7 @@ p {
 	color: #FFF;
 	font-family: Helvetica, sans-serif;
 	font-weight: bold;
-	font-decoration: italic;
-	font-align: center;
+	font-style: italic;
+	text-align: center;
 	font-size: 36px;  
 }
